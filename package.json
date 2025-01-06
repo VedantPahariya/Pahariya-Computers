@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vedantpahariya.github.io/Pahariya-Computers",
+  "homepage": "https://vedantpahariya.github.io/pahariya-computers/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
